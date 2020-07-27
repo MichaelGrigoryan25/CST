@@ -1,5 +1,5 @@
 # CUDA Stress Test
-[![CodeFactor](https://www.codefactor.io/repository/github/michaelgrigoryan25/cst/badge)](https://www.codefactor.io/repository/github/michaelgrigoryan25/cst)
+[![CodeFactor](https://www.codefactor.io/repository/github/michaelgrigoryan25/cst/badge)](https://www.codefactor.io/repository/github/michaelgrigoryan25/cst)<br>
 This is a stress test program for Nvidia Graphics Cards that support CUDA
 
 # Installing the dependencies and prerequisites
